@@ -1,0 +1,3 @@
+browser: chrome
+# Could be selenium or localhost
+host: selenium

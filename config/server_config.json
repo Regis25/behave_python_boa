@@ -1,0 +1,6 @@
+{
+	"host": {
+		"localhost": "http://localhost:4444/wd/hub",
+		"selenium": "http://selenium__standalone-chrome:4444/wd/hub"
+	}
+}
